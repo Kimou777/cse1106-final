@@ -42,7 +42,10 @@ int main() {
     fclose(fptr);
 
     FILE *file = fopen("temperature_log.csv", "r");
-
+    if (file == NULL) {
+        printf("Error opening file!\n");
+        return 1;
+    }
     
     // scan temperature_log.csv for the temperature number and status 
     printf("Temperature \t System status \t Warning LED\n");
