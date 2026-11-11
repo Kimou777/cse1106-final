@@ -1,3 +1,5 @@
+(Please view in "code" for Formatting)
+
 The Program is expected to store the temperature values, apply the "WARNING" label when outside the range of (68F - 76F), and display the average of recorded temperatures.
 
 Expectations:
