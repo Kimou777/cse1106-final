@@ -1,1 +1,6 @@
-
+1. I created the code, tested, and debugged it to make it run. I also created the circuit to power the LED with the code made.
+2. For me it was the incorporating the LED logic with the user inputs of temperatures since I had never worked with the pigpio library before. For us I think we ran into
+into a few problems with the github repository but other than that we both did well.
+3. For me I finished the code beforehand and me and my friend tested it with a breadboard, some pins, and LEDs' at his place and it took us about 2 hours before we could get it to be where we wanted. Before if you put an input in that was out of range it would turn the light on before it was finished showing the "warning" and "normal" statuses.
+4. I think since the project we did was based off the one we did earlier in the semester I would say that lab where we debugged the C code and created our own tests it helped a lot with how I wanted to approach this project.
+5. I think it's where I want it to be since it can be altered to a consumers desire but If I had to improve something I would have added a previous attempt feature.
